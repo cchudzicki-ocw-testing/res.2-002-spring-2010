@@ -8,9 +8,9 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
-related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec11-1))\n\n\
-  **Readings**\n\nSections 6.1, 6.8, 8.4\n\n**References**\n\nBathe, K. J., and E.\
-  \ Dvorkin. \u201C[On the Automatic Solution of Nonlinear Finite Element Equations.](http://dx.doi.org/10.1016/0045-7949(83)90101-3)\u201D\
+related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec11-1))\n\
+  \n**Readings**\n\nSections 6.1, 6.8, 8.4\n\n**References**\n\nBathe, K. J., and\
+  \ E. Dvorkin. \u201C[On the Automatic Solution of Nonlinear Finite Element Equations.](http://dx.doi.org/10.1016/0045-7949(83)90101-3)\u201D\
   \ _Computers & Structures_ 17 (1983): 871-879."
 resource_index_text: ''
 resourcetype: Video

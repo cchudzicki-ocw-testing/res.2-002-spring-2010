@@ -8,7 +8,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Linear Analysis
 parent_type: SupplementalResourceSection
-related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec10))
+related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec10))
 
 
   **Readings**

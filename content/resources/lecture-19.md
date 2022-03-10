@@ -8,12 +8,12 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
-related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec19))\n\n**Readings**\n\
-  \nSection 6.5\n\n**Examples**\n\nProblems 6.20, 6.21\n\n**References**\n\nBathe,\
-  \ K. J., and S. Bolourchi. \u201C[A Geometric and Material Nonlinear Plate and Shell\
-  \ Element.](http://dx.doi.org/10.1016/0045-7949(80)90144-3)\u201D _Computers & Structures_\
-  \ 11 (February 1980): 23-48.\n\nBathe, K. J., and S. Bolourchi. \u201C[Large Displacement\
-  \ Analysis of Three-Dimensional Beam Structures.](http://dx.doi.org/10.1002/nme.1620140703)\u201D\
+related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec19))\n\
+  \n**Readings**\n\nSection 6.5\n\n**Examples**\n\nProblems 6.20, 6.21\n\n**References**\n\
+  \nBathe, K. J., and S. Bolourchi. \u201C[A Geometric and Material Nonlinear Plate\
+  \ and Shell Element.](http://dx.doi.org/10.1016/0045-7949(80)90144-3)\u201D _Computers\
+  \ & Structures_ 11 (February 1980): 23-48.\n\nBathe, K. J., and S. Bolourchi. \u201C\
+  [Large Displacement Analysis of Three-Dimensional Beam Structures.](http://dx.doi.org/10.1002/nme.1620140703)\u201D\
   \ _International Journal for Numerical Methods in Engineering_ 14 (1979): 961-986.\n\
   \nBathe, K. J., E. Dvorkin, and L. W. Ho. \u201C[Our Discrete Kirchhoff and Isoparametric\
   \ Shell Elements for Nonlinear Analysis: An Assessment.](http://dx.doi.org/10.1016/0045-7949(83)90150-5)\u201D\

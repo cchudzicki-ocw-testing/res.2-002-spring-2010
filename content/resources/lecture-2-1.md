@@ -8,8 +8,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
-related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec02-1))\n\n\
-  **Readings**\n\nSection 6.1\n\n**Examples**\n\nProblems 6.1-6.4\n\n**References**\n\
+related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec02-1))\n\
+  \n**Readings**\n\nSection 6.1\n\n**Examples**\n\nProblems 6.1-6.4\n\n**References**\n\
   \nSussman, T., and K. J. Bathe. \u201C[Studies of Finite Element Procedures: On\
   \ Mesh Selection.](http://dx.doi.org/10.1016/0045-7949(85)90248-2)\u201D _Computers\
   \ & Structures_ 21 (1985): 257-264.\n\nSussman, T., and K. J. Bathe. \u201C[Studies\

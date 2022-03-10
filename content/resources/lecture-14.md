@@ -8,7 +8,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
-related_resources_text: "Study Guide ([PDF - 1.1MB](resources/mitres2_002s10_lec14))\n\
+related_resources_text: "Study Guide ([PDF - 1.1MB](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec14))\n\
   \n**Readings**\n\nSections 9.1, 9.5\n\n**References**\n\nBathe, K. J. \u201CFinite\
   \ Element Formulation, Modeling, and Solution of Nonlinear Dynamic Problems.\u201D\
   \ In Parter, S. V. _Numerical Methods for Partial Differential Equations: Proceedings\

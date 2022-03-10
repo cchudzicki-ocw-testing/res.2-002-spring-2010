@@ -8,7 +8,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
-related_resources_text: 'Study Guide ([PDF](resources/mitres2_002s10_lec13))
+related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec13))
 
 
   **Readings**

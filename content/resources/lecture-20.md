@@ -8,7 +8,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
-related_resources_text: "Study Guide ([PDF - 1.2MB](resources/mitres2_002s10_lec20))\n\
+related_resources_text: "Study Guide ([PDF - 1.2MB](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec20))\n\
   \n**Readings**\n\nSection 6.5\n\n**Examples**\n\nProblems 6.20, 6.21\n\n**References**\n\
   \nBathe, K. J., and A. Chaudhary. \u201C[On the Displacement Formulation of Torsion\
   \ of Shafts with Rectangular Cross-Sections.](http://dx.doi.org/10.1002/nme.1620181010)\u201D\

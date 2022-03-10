@@ -8,10 +8,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Nonlinear Analysis
 parent_type: SupplementalResourceSection
-related_resources_text: "Study Guide ([PDF](resources/mitres2_002s10_lec17))\n\n**Readings**\n\
-  \nSections 6.6.3, 6.6.4\n\n**Examples**\n\nProblem 6.26\n\n**References**\n\nBathe,\
-  \ K. J., et al. \u201C[On Some Current Procedures and Difficulties in Finite Element\
-  \ Analysis of Elastic-Plastic Response.](http://dx.doi.org/10.1016/0045-7949(80)90135-2)\u201D\
+related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/mitres2_002s10_lec17))\n\
+  \n**Readings**\n\nSections 6.6.3, 6.6.4\n\n**Examples**\n\nProblem 6.26\n\n**References**\n\
+  \nBathe, K. J., et al. \u201C[On Some Current Procedures and Difficulties in Finite\
+  \ Element Analysis of Elastic-Plastic Response.](http://dx.doi.org/10.1016/0045-7949(80)90135-2)\u201D\
   \ _Computers & Structures_ 12 (October 1980): 607-624.\n\nSnyder, M. D., and K.\
   \ J. Bathe. \u201C[A Solution Procedure for Thermo-Elastic-Plastic and Creep Problems.](http://dx.doi.org/10.1016/0029-5493(81)90032-7)\u201D\
   \ _Nuclear Engineering and Design_ 64 (March 1981): 49-80.\n\nSussman, T., and K.\
