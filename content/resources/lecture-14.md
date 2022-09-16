@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -22,6 +24,7 @@ related_resources_text: "Study Guide ([PDF - 1.1MB](/courses/res-2-002-finite-el
   \ _Computers & Structures_ 12 (September 1980): 309-318."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 14: Solution of Nonlinear Dynamic Response II'
 uid: 90fda2df-ae64-acb4-5eeb-c7e7f184139e
 video_files:
@@ -48,3 +51,4 @@ video_metadata:
 *   Example analysis: Solution of fluid-structure interaction problem
 
 **Instructor:** Klaus-Jürgen Bathe
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -23,6 +25,7 @@ related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   Problems 11.1-11.27'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Solution Methods for Frequencies and Mode Shapes'
 uid: 1b541d7f-788b-d648-9008-d6c9dcf472c8
 video_files:
@@ -44,3 +47,4 @@ video_metadata:
 *   Selection of appropriate technique, practical considerations
 
 **Instructor:** Klaus-Jürgen Bathe
+

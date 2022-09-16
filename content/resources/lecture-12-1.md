@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -17,6 +19,7 @@ related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   Sections 6.1, 6.8, 8.4'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Demonstrative Example Solutions in Static Analysis'
 uid: b1619055-e330-b43a-77d3-15d378a69ff0
 video_files:
@@ -40,3 +43,4 @@ video_metadata:
 *   Example analysis: Failure and repair of a beam/cable structure
 
 **Instructor:** Klaus-Jürgen Bathe
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -17,6 +19,7 @@ related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   \ Journal for Numerical Methods in Engineering_ 21 (January 1985): 65-88."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Demonstration Using ADINA - Nonlinear Analysis'
 uid: 13baa295-00ee-9a5b-4bf7-f37cd952482c
 video_files:
@@ -39,3 +42,4 @@ video_metadata:
 *   Study and evaluation of solution results
 
 **Instructor:** Klaus-Jürgen Bathe
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -15,6 +17,7 @@ related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   \ _Computer Methods In Applied Mechanics and Engineering_ 22 (April 1980): 59-85."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Solution of Nonlinear Static FE Equations I'
 uid: c2a4bd9a-fab9-be40-a7ef-dc44f85c157f
 video_files:
@@ -40,3 +43,4 @@ video_metadata:
 *   Convergence criteria and tolerances
 
 **Instructor:** Klaus-Jürgen Bathe
+

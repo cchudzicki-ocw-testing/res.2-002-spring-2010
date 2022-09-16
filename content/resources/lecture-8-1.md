@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -23,6 +25,7 @@ related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   Problems 6.16, 6.17'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: 2-Noded Truss Element - Updated Lagrangian Formulation'
 uid: 5e52d1ca-6541-a911-cf8c-8d455c6f40db
 video_files:
@@ -43,3 +46,4 @@ video_metadata:
 *   Example analysis: Prestressed cable
 
 **Instructor:** Klaus-Jürgen Bathe
+

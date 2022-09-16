@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -17,6 +19,7 @@ related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   \ _Computers & Structures_ 6 (April 1976): 81-92."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Updated Lagrangian Formulation - Incremental Analysis'
 uid: 4b3b931a-94d6-3e80-029d-ab254ded3ecb
 video_files:
@@ -40,3 +43,4 @@ video_metadata:
 *   Comparison to total Lagrangian formulation
 
 **Instructor:** Klaus-Jürgen Bathe
+

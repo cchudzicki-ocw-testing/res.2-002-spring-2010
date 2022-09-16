@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -23,6 +25,7 @@ related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   Problems 5.1-5.22'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Formulation and Calculation of Isoparametric Models'
 uid: 33e219ed-c7fe-41d8-821b-1e7f6ecbf042
 video_files:
@@ -43,3 +46,4 @@ video_metadata:
 *   Various examples; shifting of internal nodes to achieve stress singularities for fracture mechanics analysis
 
 **Instructor:** Klaus-Jürgen Bathe
+

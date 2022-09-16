@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -17,6 +19,7 @@ related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   Sections 6.3.1, 6.3.2, 6.4'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Formulation of Finite Element Matrices'
 uid: 242d8e81-6cf1-d58f-71b3-c3482d98e1d2
 video_files:
@@ -42,3 +45,4 @@ video_metadata:
 *   Example analysis: A numerical experiment to test for correct element rigid body behavior
 
 **Instructor:** Klaus-Jürgen Bathe
+

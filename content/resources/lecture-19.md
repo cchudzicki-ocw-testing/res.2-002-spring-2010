@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -38,6 +40,7 @@ related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   \ _Computers & Structures_ 89 (February 2011): 285-301."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: Beam, Plate, and Shell Elements I'
 uid: 923bf010-0ba3-e0c1-4e36-fe69380119ec
 video_files:
@@ -62,3 +65,4 @@ video_metadata:
 *   Shell transition elements, modeling of transition zones between solids and shells, shell intersections
 
 **Instructor:** Klaus-Jürgen Bathe
+

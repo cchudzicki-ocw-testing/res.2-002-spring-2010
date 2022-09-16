@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +33,7 @@ related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   \ 159-196."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Modeling of Elasto-Plastic and Creep Response II'
 uid: 82ec90ab-4952-79bd-6d5c-6bc2fb6f6e04
 video_files:
@@ -55,3 +58,4 @@ video_metadata:
 *   Example analysis: Analysis of cylinder subjected to heat treatment
 
 **Instructor:** Klaus-Jürgen Bathe
+

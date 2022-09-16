@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -18,6 +20,7 @@ related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   \ 3 (1986): 178-191."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Basic Considerations in Nonlinear Analysis'
 uid: ff2d9254-1cd9-fcb7-e608-5de4ef7ae7bc
 video_files:
@@ -42,3 +45,4 @@ video_metadata:
 *   Discussion of mesh evaluation by studying stress jumps along element boundaries and pressure band plots
 
 **Instructor:** Klaus-Jürgen Bathe
+

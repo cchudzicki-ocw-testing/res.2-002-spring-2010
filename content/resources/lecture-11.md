@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -23,6 +25,7 @@ related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   Problems 9.6-9.11, 9.14'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Mode Superposition Analysis; Time History'
 uid: 5ff838fc-3db9-32e6-4f8b-7a9f1d0b6f87
 video_files:
@@ -47,3 +50,4 @@ video_metadata:
 *   Practical considerations
 
 **Instructor:** Klaus-Jürgen Bathe
+

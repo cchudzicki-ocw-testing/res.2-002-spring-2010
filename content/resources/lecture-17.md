@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -33,6 +35,7 @@ related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   \ 159-196."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Modeling of Elasto-Plastic and Creep Response I'
 uid: 60926cff-1748-aeb1-6862-a548e4ea71e4
 video_files:
@@ -59,3 +62,4 @@ video_metadata:
 *   Computer-plotted animation: Plate with a hole
 
 **Instructor:** Klaus-Jürgen Bathe
+

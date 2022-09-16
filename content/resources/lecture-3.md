@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -23,6 +25,7 @@ related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   Problems 4.1-4.14'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: The Displacement-Based Finite Element Method'
 uid: 5d897a7c-bde4-2d83-1822-1a600e5271cf
 video_files:
@@ -46,3 +49,4 @@ video_metadata:
 *   Example analysis of a nonuniform bar, detailed discussion of element matrices
 
 **Instructor:** Klaus-Jürgen Bathe
+

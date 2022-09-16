@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -23,6 +25,7 @@ related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   Problems 5.23-5.32'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Formulation of Structural Elements'
 uid: b871465d-bde3-e2f8-7630-0ecc7b253ceb
 video_files:
@@ -46,3 +49,4 @@ video_metadata:
 *   Low- versus high-order elements
 
 **Instructor:** Klaus-Jürgen Bathe
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -23,6 +25,7 @@ related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   Problems 9.1-9.5, 9.12-9.14'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Solution of Equilibrium Equations in Dynamic Analysis'
 uid: 5368d231-7d07-b1a5-3b27-e6617f2639c1
 video_files:
@@ -48,3 +51,4 @@ video_metadata:
 *   Recommendations on the use of the methods in practice
 
 **Instructor:** Klaus-Jürgen Bathe
+

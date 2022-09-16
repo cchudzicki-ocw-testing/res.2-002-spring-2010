@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -14,6 +16,7 @@ related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   \ _Computers & Structures_ 17 (1983): 871-879."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Solution of Nonlinear Static FE Equations II'
 uid: 1891a81c-0cee-b46d-740f-b126fd862ee6
 video_files:
@@ -36,3 +39,4 @@ video_metadata:
 *   Example analysis: Collapse of an arch - linearized buckling analysis and automatic load step incrementation, effect of initial geometric imperfections
 
 **Instructor:** Klaus-Jürgen Bathe
+

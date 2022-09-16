@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -23,6 +25,7 @@ related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   Problems 12.1-12.4, Example Program STAP'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Implementation of Methods in Computer Programs'
 uid: fe17ba29-152d-285f-45cc-e081bc2cea9c
 video_files:
@@ -46,3 +49,4 @@ video_metadata:
 *   Introduction to different effective finite elements used in one-, two-, three-dimensional, beam, plate, and shell analyses
 
 **Instructor:** Klaus-Jürgen Bathe
+

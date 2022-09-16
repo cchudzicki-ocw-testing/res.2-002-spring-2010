@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -15,6 +17,7 @@ related_resources_text: "Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   \ _Computers & Structures_ 12 (September 1980): 309-318."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Introduction to Nonlinear Analysis'
 uid: 9fa3b699-97f7-1224-9321-f699381c1c0d
 video_files:
@@ -44,3 +47,4 @@ video_metadata:
 *   A demonstrative static and dynamic nonlinear analysis of a shell
 
 **Instructor:** Klaus-Jürgen Bathe
+

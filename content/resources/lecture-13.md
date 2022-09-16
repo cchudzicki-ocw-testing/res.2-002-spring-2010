@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -17,6 +19,7 @@ related_resources_text: 'Study Guide ([PDF](/courses/res-2-002-finite-element-pr
   Sections 9.1, 9.5'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Solution of Nonlinear Dynamic Response I'
 uid: 4df1a4df-a2e5-425c-ba01-9dc30b42cf42
 video_files:
@@ -38,3 +41,4 @@ video_metadata:
 *   Combination of explicit and implicit integrations
 
 **Instructor:** Klaus-Jürgen Bathe
+
